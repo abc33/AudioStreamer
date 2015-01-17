@@ -1,0 +1,15 @@
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\AudioStreamer.exe.config
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.csprojResolveAssemblyReference.cache
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.Properties.Resources.resources
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.csproj.GenerateResource.Cache
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\AudioStreamer.exe
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\AudioStreamer.pdb
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\NAudio.dll
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\NAudio.xml
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.exe
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.pdb
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.AudioStreamer.resources
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\AudioStreamer.exe.manifest
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\bin\Debug\AudioStreamer.application
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.exe.manifest
+H:\=ArchivioDati\Development\Desktop\CSharp\AudioStreamer\AudioStreamer\obj\Debug\AudioStreamer.application
