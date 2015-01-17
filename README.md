@@ -1,5 +1,4 @@
-﻿# __AudioStreamer__
----
+# __AudioStreamer__
 ### Introduction
 __AudioStreamer__ is a simple, intuitive and easy to use _audio multiplier software_.  
 It allows to _get sound from windows_ and directly _play it through other output_ devices  
