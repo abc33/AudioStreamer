@@ -53,6 +53,7 @@ Here there is a list of features I wish to add:
  - Allow to _edit current audio output settings_ without removing and adding it again
  - _Import/export_ output mapping
  - _Better GUI_
+ - Finish source documentation
 
 Any suggestion is really appreciated, so if you have any idea you can [drop me a message].
 
