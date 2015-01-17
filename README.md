@@ -4,9 +4,13 @@ __AudioStreamer__ is a simple, intuitive and easy to use _audio multiplier softw
 It allows to _get sound from windows_ and directly _play it through other output_ devices  
 such as speakers, phones, headsets, bluetooth speakers, digital output, etc.
 
+---
+
 ### Installation
 The following prerequisites are required:
  - Microsoft .NET Framework 4.5 (x86 and x64)
+
+---
 
 ### How to use
 Follow this simple guide to get started:
@@ -28,16 +32,20 @@ NOTE: If you want to move the runnable file to another folder,
 make sure you also copy the __Naudio.dll__ file, otherwise  
 the application will not start.
 
+---
+
 ### Versions
 Latest version: v0.1  
 All __alpha__ versions:
- - __v0.1__ &#0151; _current_
+ - __v0.1__ - _current_
 
 All __beta__ versions:
  - _none_
 
 All __release__ versions:
  - _none_
+
+---
 
 ### Todo's
 Here there is a list of features I wish to add:
@@ -48,9 +56,20 @@ Here there is a list of features I wish to add:
 
 Any suggestion is really appreciated, so if you have any idea you can [drop me a message].
 
+---
+
 ### Development
 Want to contribute? Great!  
 Just fork project, make your changes and make a pull request.
+
+---
+
+### External Libraries
+To build this project I used these free open source libraries, so a really  
+big thanks goes to authors of these libraries listed below:
+ - [NAudio] - Audio utils library
+
+---
 
 ###License
 **AudioStreamer** under the Apache License, Version 2.0:
