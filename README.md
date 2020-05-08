@@ -72,7 +72,7 @@ big thanks goes to authors of these libraries listed below:
 
 ---
 
-###License
+### License
 **AudioStreamer** under the Apache License, Version 2.0:
 
 > Copyright 2015 Davide Marchetti ([@dvdmarchetti])  
