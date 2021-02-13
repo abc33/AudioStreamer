@@ -55,7 +55,7 @@ Here there is a list of features I wish to add:
  - _Better GUI_
  - Finish source documentation
 
-Any suggestion is really appreciated, so if you have any idea you can [drop me a message].
+Any suggestion is really appreciated, so if you have any idea you can open an issue.
 
 ---
 
@@ -69,24 +69,3 @@ Just fork project, make your changes and make a pull request.
 To build this project I used these free open source libraries, so a really  
 big thanks goes to authors of these libraries listed below:
  - [NAudio] - Audio utils library
-
----
-
-### License
-**AudioStreamer** under the Apache License, Version 2.0:
-
-> Copyright 2015 Davide Marchetti ([@dvdmarchetti])  
-> Licensed under the Apache License, Version 2.0 (the "License");  
-> you may not use this file except in compliance with the License.  
-> You may obtain a copy of the License at  
-> &nbsp;    
-> http://www.apache.org/licenses/LICENSE-2.0  
-> &nbsp;  
-> Unless required by applicable law or agreed to in writing, software  
-> distributed under the License is distributed on an "AS IS" BASIS,  
-> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
-> See the License for the specific language governing permissions and  
-> limitations under the License. 
-
-[drop me a message]:mailto:dvdmarchetti663@gmail.com
-[@dvdmarchetti]:https://twitter.com/dvdmarchetti
